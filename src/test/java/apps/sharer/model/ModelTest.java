@@ -1,13 +1,6 @@
 package apps.sharer.model;
 
 import static junit.framework.Assert.assertEquals;
-import static org.hamcrest.CoreMatchers.hasItem;
-import static org.hamcrest.CoreMatchers.hasItems;
-import static org.hamcrest.CoreMatchers.is;
-import static org.junit.Assert.assertThat;
-import static org.junit.Assert.assertTrue;
-
-import java.util.List;
 
 import org.junit.Before;
 import org.junit.Test;
